@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f3dff1f-d531-4567-822a-249ebec21ab5" name="Default Changelist" comment="adding emailSender method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Djps.track.ap.dependencies=false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="XML Properties File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JPntqf2q3dX3w34G5Ehdl1qdzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_responseApi" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.14129111" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kg.mega.saloon.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\users\asydykov\Desktop\saloon\src\main\java\kg\mega\saloon" />
+      <recent name="D:\users\asydykov\Desktop\saloon\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kg.mega.saloon.jobs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SaloonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="saloon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kg.mega.saloon.SaloonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f3dff1f-d531-4567-822a-249ebec21ab5" name="Default Changelist" comment="" />
+      <created>1671988803912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671988803912</updated>
+      <workItem from="1671988805030" duration="630000" />
+      <workItem from="1671989454966" duration="52262000" />
+      <workItem from="1672396524629" duration="46000" />
+      <workItem from="1672396591779" duration="2115000" />
+      <workItem from="1672670723406" duration="6651000" />
+      <workItem from="1672821577915" duration="18261000" />
+      <workItem from="1673024029115" duration="33804000" />
+      <workItem from="1673267989530" duration="4589000" />
+      <workItem from="1673529797688" duration="147000" />
+      <workItem from="1673529961248" duration="17868000" />
+      <workItem from="1673932509051" duration="684000" />
+      <workItem from="1674045802168" duration="4480000" />
+      <workItem from="1674464835467" duration="5412000" />
+      <workItem from="1674477640695" duration="1906000" />
+      <workItem from="1674538204759" duration="7006000" />
+      <workItem from="1674636377667" duration="14647000" />
+      <workItem from="1674981216479" duration="19000" />
+      <workItem from="1675055956020" duration="8317000" />
+      <workItem from="1675081770910" duration="587000" />
+      <workItem from="1675141709542" duration="4243000" />
+      <workItem from="1675254635531" duration="586000" />
+      <workItem from="1675310261366" duration="101000" />
+      <workItem from="1675687055618" duration="585000" />
+      <workItem from="1675764717349" duration="670000" />
+      <workItem from="1675786015528" duration="1179000" />
+      <workItem from="1675789339241" duration="10000" />
+      <workItem from="1675914666893" duration="938000" />
+      <workItem from="1676000189657" duration="3093000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1671995270626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995270626</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1671995914981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995914981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1672035627693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672035627693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1672074962443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074962443</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1672077699447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672077699447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1672236097598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672236097598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding a timezone">
+      <created>1672251263590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672251263590</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add method getScheduleByMasterName">
+      <created>1672850096935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672850096935</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modifying method save() in Order">
+      <created>1673031784845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673031784845</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adding emailSender method">
+      <created>1673187311799</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673187311799</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adding emailSender method">
+      <created>1673252553417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673252553417</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="adding a timezone" />
+    <MESSAGE value="add method getScheduleByMasterName" />
+    <MESSAGE value="modifying method save() in Order" />
+    <MESSAGE value="adding emailSender method" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding emailSender method" />
+  </component>
+</project>
